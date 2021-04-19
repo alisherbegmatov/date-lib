@@ -7,7 +7,7 @@
 
 ## Description
 
-### a library that handles date operations in a better and more intuitive way than the built in Date Object.
+### A library that handles date operations in a better and more intuitive way than the built in Date Object.
 
 ## Instructions
 
