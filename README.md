@@ -1,7 +1,7 @@
 # Date Library
 
-![npm](https://img.shields.io/npm/v/date-lib)
-![NPM](https://img.shields.io/npm/l/date-lib)
+![npm](https://img.shields.io/npm/v/@alisherbegmatov/date-lib)
+![NPM](https://img.shields.io/npm/l/@alisherbegmatov/date-lib)
 ![GitHub repo size](https://img.shields.io/github/repo-size/alisherbegmatov/date-lib)
 ![GitHub issues](https://img.shields.io/github/issues/alisherbegmatov/date-lib)
 
