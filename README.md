@@ -5,6 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/alisherbegmatov/date-lib)
 ![GitHub issues](https://img.shields.io/github/issues/alisherbegmatov/date-lib)
 ![Travis issues](https://travis-ci.com/alisherbegmatov/date-lib.svg?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/alisherbegmatov/date-lib/badge.svg?branch=main)](https://coveralls.io/github/alisherbegmatov/date-lib?branch=main)
 
 ## Description
 
