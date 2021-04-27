@@ -4,6 +4,7 @@
 ![NPM](https://img.shields.io/npm/l/@alisherbegmatov/date-lib)
 ![GitHub repo size](https://img.shields.io/github/repo-size/alisherbegmatov/date-lib)
 ![GitHub issues](https://img.shields.io/github/issues/alisherbegmatov/date-lib)
+![Travis issues](https://travis-ci.com/alisherbegmatov/date-lib.svg?branch=main)
 
 ## Description
 
