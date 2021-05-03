@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1620003230031" clover="3.2.0">
+  <project timestamp="1620003230031" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="27" coveredconditionals="17" methods="18" coveredmethods="18" elements="51" coveredelements="41" complexity="0" loc="6" ncloc="6" packages="2" files="2" classes="2"/>
+    <package name="src">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="utils.js" path="/Users/alisherbegmatov/Documents/Code/Make School/Term 4/FEW 2.1/date-lib/src/utils.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="umd">
+      <metrics statements="1" coveredstatements="1" conditionals="27" coveredconditionals="17" methods="18" coveredmethods="18"/>
+      <file name="date-lib.js" path="/Users/alisherbegmatov/Documents/Code/Make School/Term 4/FEW 2.1/date-lib/umd/date-lib.js">
+        <metrics statements="1" coveredstatements="1" conditionals="27" coveredconditionals="17" methods="18" coveredmethods="18"/>
+        <line num="1" count="46" type="cond" truecount="17" falsecount="10"/>
+      </file>
+    </package>
+  </project>
+</coverage>

@@ -1,4 +1,4 @@
-const D = require('../src/index')
+const D = require('../umd/date-lib')
 
 const today = new Date()
 const E = new D()
@@ -19,11 +19,11 @@ test('E.yr', () => {
 })
 
 test('E.month', () => {
-  expect(E.month).toBe('April')
+  expect(E.month).toBe('May')
 })
 
 test('E.mon', () => {
-  expect(E.mon).toBe('Apr')
+  expect(E.mon).toBe('May')
 })
 
 test('exDate.day', () => {
